@@ -1,4 +1,0 @@
-category: X11 Mail
-requires: libX11_6 libXaw7 libXext6 libXmu6 libXt6
-sdesc: "X.Org mailbox checker"
-ldesc: "X.Org mailbox checker"

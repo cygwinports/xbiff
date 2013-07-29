@@ -1,0 +1,12 @@
+inherit xorg
+
+NAME="xbiff"
+VERSION=1.0.3
+RELEASE=1
+CATEGORY="Mail"
+SUMMARY="X mailbox indicator"
+DESCRIPTION="The xbiff program displays a little image of a mailbox.  When
+there is no mail, the flag on the mailbox is down.  When mail arrives, the
+flag goes up and the mailbox beeps.  By default, pressing any mouse button in
+the image forces xbiff to remember the current size of the mail file as being
+the 'empty' size and to lower the flag."
